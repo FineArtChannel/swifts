@@ -40,6 +40,14 @@ header{
   width: 60%;
   margin-left: 20%;
 }
+.maps{
+  width: 75%;
+  margin-left: 0%;
+}
+.maps h1{
+  font-family: "PT sans";
+  font-size: 35pt;
+}
 .post p{
   font-family: "PT serif";
   font-size: 14pt;
