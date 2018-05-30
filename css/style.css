@@ -40,6 +40,13 @@ header{
   width: 60%;
   margin-left: 20%;
 }
+.marking{
+  font-family: "Segoe UI";
+  font-size: 10pt;
+  width: 550px;
+  margin-left: 40%;
+  color: grey;
+}
 .maps{
   width: 75%;
   margin-left: 0%;
