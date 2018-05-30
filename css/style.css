@@ -1,5 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700&subset=cyrillic');
-@import url('https://fonts.googleapis.com/css?family=PT+Sans:700&subset=cyrillic');
+@font-face {
+  font-family: 'PT Sans', sans-serif;
+  font-family: 'PT Serif', serif;
+  font-style: normal;
+  font-weight: normal;
+}
 body{
 }
 header{
@@ -43,6 +47,10 @@ header{
 .post h1{
   font-family: "PT sans";
   font-size: 35pt;
+}
+.post h2{
+  font-family: "PT sans";
+  font-size: 25pt;
 }
 .post img{
   width: 100%;
