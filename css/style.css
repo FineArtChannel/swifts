@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700&subset=cyrillic');
+@import url('https://fonts.googleapis.com/css?family=PT+Sans:700&subset=cyrillic');
+body{
+}
+header{
+  width: 1024px;
+  height: 150px;
+  margin: 0 auto;
+  display: flex;
+  flex-flow: row;
+  justify-content: space-between;
+  align-items: center;
+  font-family: "PT Serif";
+}
+.logo{
+  height: 100%;
+}
+.logo img{
+  height: 150px;
+  width: 150px;
+}
+.menu a{
+  text-decoration: none;
+  color: black;
+  font-size: 20pt;
+  margin-left: 20px;
+}
+.menu a:hover{
+  text-decoration: underline;
+}
+.content{
+  width: 1024px;
+  margin: auto;
+}
+.post{
+  width: 60%;
+  margin-left: 20%;
+}
+.post p{
+  font-family: "PT serif";
+  font-size: 14pt;
+}
+.post h1{
+  font-family: "PT sans";
+  font-size: 35pt;
+}
+.post img{
+  width: 100%;
+}
+.post{
+  margin-top: 100px;
+}
+.footer{
+  height: 50px;
+  width: 1024px;
+  margin: auto;
+  margin-top: 100px;
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.footer-links a{
+  text-decoration: none;
+  color: white;
+  font-family: "PT Sans";
+  margin-left: 20px;
+}
+.footer p{
+  color: white;
+  font-family: "PT Sans";
+  margin-right: 20px;
+}
+.footer-links a:hover{
+  text-decoration: underline;
+}
