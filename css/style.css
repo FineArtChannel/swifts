@@ -63,6 +63,10 @@ header{
   font-family: "PT serif";
   font-size: 14pt;
 }
+.post a{
+  text-decoration: none;
+  color: black;
+}
 .post h1{
   font-family: "PT sans";
   font-size: 35pt;
