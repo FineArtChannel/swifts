@@ -48,6 +48,10 @@ header{
   font-family: "PT sans";
   font-size: 35pt;
 }
+.mapsfortext{
+  width: 60%;
+  margin-left: 20%;
+}
 .post p{
   font-family: "PT serif";
   font-size: 14pt;
@@ -59,6 +63,9 @@ header{
 .post h2{
   font-family: "PT sans";
   font-size: 25pt;
+}
+.post retardation{
+
 }
 .post img{
   width: 100%;
